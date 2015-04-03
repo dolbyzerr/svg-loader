@@ -1,0 +1,29 @@
+{
+  "name": "svg-loader",
+  "version": "0.0.1",
+  "author": "Andrei Terentev @dolbyzerr",
+  "description": "Svg loader for webpack",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dolbyzerr/svg-loader.git"
+  },
+  "keywords": [
+    "svg",
+    "loader",
+    "webpack"
+  ],
+  "bugs": {
+    "url": "https://github.com/dolbyzerr/svg-loader/issues"
+  },
+  "homepage": "https://github.com/dolbyzerr/svg-loader"
+}
